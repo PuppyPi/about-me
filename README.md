@@ -62,3 +62,53 @@ PlEEEeeEeEeeeEEeEeeeeeeese just let me know; I would *desperately* love to share
 tl;dr I'll help you with your homework lol or teach you to code XD —but no, it's more than that :'>
 
 (though also note, I'm CRLA Level II certified and was a professional tutor in college that a lot of people liked, so I really can help :D and you get it for freeeee! ^W^ )
+
+
+
+
+# Specific things I already know a lot about!  Including Fandoms! ^W^
+Things we're both passionate about are great :D
+
+But as a dear friend showed me, a lot of connection comes from specific things you like and already know a lot about!! :D<br>
+(As opposed to things you like but don't already know a lot about, but would learn if someone wanted to :3 )
+
+## Fandoms
+I think this includes Fandoms! :D
+
+So here are my Fandom things not in order but grouped by level of interest/importance to me (note that I'm not active in any fandom *communities*, I just like these arts :> )
+
+* @My Little Pony: Friendship is Magic
+* @Star Trek (not as much The Original Series, sorry ^^' )
+* She-Ra and the Princesses of Power
+* @The Owl House
+* @Steven Universe
+* Avatar: The Last Airbender
+* @Magic Knight Rayearth
+* @Pokėmon
+* (more I'm leaving out I just know it XD ...)
+
+(then, the less soul-definingly-deeply important ones to me: XD )
+
+* Avatar: The Legend of Korra
+* Doctor Who
+* Gravity Falls
+* Bee & Puppycat
+* Foster's Home for Imaginary Friends
+* Danny Phantom
+* Static Shock
+* (Humans)[https://www.imdb.com/title/tt4122068/]
+* Digimon
+* Yu-Gi-Oh!
+* Full-Metal Alchemist
+* Sanctuary
+* Xena: Warrior Princess
+* Stargate
+* Disenchantment
+* Futurama
+
+(@ means I haven't finished all of it yet (as of 2023-04-11)! So no spoilers! XD )
+(none in the second one bc they're not as personally-important to me so I don't mind as much X33 )
+
+## Notfandoms! XD
+
+TODO XD
