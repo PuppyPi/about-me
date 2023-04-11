@@ -96,7 +96,7 @@ So here are my Fandom things not in order but grouped by level of interest/impor
 * Foster's Home for Imaginary Friends
 * Danny Phantom
 * Static Shock
-* (Humans)[https://www.imdb.com/title/tt4122068/]
+* [Humans](https://www.imdb.com/title/tt4122068/)
 * Digimon
 * Yu-Gi-Oh!
 * Full-Metal Alchemist
