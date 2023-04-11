@@ -111,4 +111,61 @@ So here are my Fandom things not in order but grouped by level of interest/impor
 
 ## Notfandoms! XD
 
+This section needs work, but I'm just going to write out a bunch of stuff like it's NaNoWriMo (which my dear friend does :3 ) because it's getting late and I need to fix my sleep schedule XD''
+
 TODO XD
+
+# Can do in my sleep XD
+* Java Programming!
+* Java GUI Client Programming (in Swing or frameworks I made myself :3 )
+* Server Backend Programming (for a conventional website, or for systems involving custom network protocols)
+* Software Architecture (designing APIs and Network Protocols and the structure of entire things)
+* Game Engine Development (esp. realtime 2D sidescrollers with physics! :D )
+* Game Content Development (just the code not the art! ^^' )
+  * Thoroughly, Creatures 3 / Docking Station! :DD that's my childhood right there XD :">
+  * Also Starbound :>
+* Certain areas of Discrete Mathematics
+  * Boolean Logic! :D
+* Certain areas of Continuous Mathematics
+  * Algebra (Numerical and Abstract! and Symbolic Expression Trees!)
+  * Basic Multivariate Calculus XD
+  * Basic Differential Equations
+* Singing! \:D/
+* Dancing! \^w^/
+* Writing way-too-emotionally-exhausting song lyrics! :D XD
+* Basic Chemistry (Arrhenius Equations, Gibbs Free Energy, Stoichiometry, Faraday's Law, the usual :3 )
+* (probably things I forgot!)...
+
+# Know a fair bit about and *dream about* in my sleep! 8> XD
+* The Rest of Discrete Mathematics 8>
+* The Rest of Continuous Mathematics ^^
+* Embedded-Systems Programming in C and Raspberry Pi lowlevel physical-memory direct access code in Java!
+* Digital-Signal Processing algorithms in C and Java
+* Writing way-too-emotionally-exhausting stories XD (usually fanfiction ^^ )
+* Lumped-Element Electrodynamic Analysis! (I'm about to do something that should put this in the upper list ;D )
+* Making DIY electronics! \:D/
+* Game Content Development (just the code not the art! ^^' )
+  * Roblox! ^w^
+  * Minetest Mods! ^w^
+  * Minecraft Mods someday! :3
+* Continuum Dynamics! :'D (including connecting Thermodynamics with Chemical Engineering with Maxwellian Electrodynamics with Geometric Optics in the framework of Continuum Dynamics to make **Ultimate Classical Physicssss!**  Yaaaaaaas!  /:D/  XD ^W^ )
+* 3D Printing and CNC Machining! ^w^
+* Computational Geometry!!
+* Matrix-Formulation Quantum Particle Theory (someday Field Theory and QED/QCD 8>> but..alas, as you can see..there is ***so much else*** 8> XD )
+* Linear Algebra
+* Welding! (I'm certified in MIG and Stick but want to learn TIG! :D )
+* Computer Programming in Functional Languages
+* Hydroponic/Aeroponic Agriculture
+* Building houses for EXTREMELY—NO REALLY, I MEAN *EXTREMELY* LITTLE MONEY XD (by necessity! since I've been dirt poor for so long XD though I haven't actually done it yet!! but at time of writing I am *starting right now!* :DD )
+* Mechanical Engineering!!
+  * Finite-Strain Static Truss-Analysis
+  * Infinitescimal-Strain Static Continuum-Analysis
+  * Finite-Strain Static Continuum-Analysis 8>
+* Finite-Element Modelling (Im baby here, but I *finally* understand the fundamental principle of it!—that it's a projection from infinite-dimensional space and linear algebra into a bajillion-but-finite-dimensional space!! :D!! )
+* *Infinite-Dimensional Calculus MUAhahaha!* (and Geometry / Linear Algebra) — aka, Calculus of Variations (and Hilbert Space Geometry / Linear Algebra) XD
+* Formally-Verifiable Logic/Mathematics (eg, ATS, Agda, etc.! :D )
+* Data Schemas / Modelling Systems that let data typing and (limited) semantics be shared across languages/platforms/implementations/codeworlds! \:D/
+* Formal grammar / syntax / computer language/parser/scanner design! :D
+* Inorganic Chemistry :3  (esp Discrete-Modelled Systems Equilibrium and Dynamic Chemistry 8> )
+* Very Basic Organic Chemistry!! XD   (I don't begin to know how to write the molecular dynamics non-transient-simulation code to calculate the entopy cost and pre-exponential factor from the geometry of the classical parameter-space region surrounding the lowest potential energy nuclear configurations of the reactant molecules!  \[*pants*\]  ..But I know if I did figure it out, there's a lot of tables I wouldn't need to memorize! ;D XDD )
+* (**definitely** things I forgot!)...
