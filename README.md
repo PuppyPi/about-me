@@ -141,6 +141,7 @@ TODO XD
 * The Rest of Continuous Mathematics ^^
 * Embedded-Systems Programming in C and Raspberry Pi lowlevel physical-memory direct access code in Java!
 * Digital-Signal Processing algorithms in C and Java
+* Android App Development :>   (in Java not Kotlin, and with my own toolchain, not Android Studio ^^' )
 * Writing way-too-emotionally-exhausting stories XD (usually fanfiction ^^ )
 * Lumped-Element Electrodynamic Analysis! (I'm about to do something that should put this in the upper list ;D )
 * Making DIY electronics! \\:D/
