@@ -130,8 +130,8 @@ TODO XD
   * Algebra (Numerical and Abstract! and Symbolic Expression Trees!)
   * Basic Multivariate Calculus XD
   * Basic Differential Equations
-* Singing! \:D/
-* Dancing! \^w^/
+* Singing! \\:D/
+* Dancing! \\^w^/
 * Writing way-too-emotionally-exhausting song lyrics! :D XD
 * Basic Chemistry (Arrhenius Equations, Gibbs Free Energy, Stoichiometry, Faraday's Law, the usual :3 )
 * (probably things I forgot!)...
@@ -143,7 +143,7 @@ TODO XD
 * Digital-Signal Processing algorithms in C and Java
 * Writing way-too-emotionally-exhausting stories XD (usually fanfiction ^^ )
 * Lumped-Element Electrodynamic Analysis! (I'm about to do something that should put this in the upper list ;D )
-* Making DIY electronics! \:D/
+* Making DIY electronics! \\:D/
 * Game Content Development (just the code not the art! ^^' )
   * Roblox! ^w^
   * Minetest Mods! ^w^
@@ -164,7 +164,7 @@ TODO XD
 * Finite-Element Modelling (Im baby here, but I *finally* understand the fundamental principle of it!—that it's a projection from infinite-dimensional space and linear algebra into a bajillion-but-finite-dimensional space!! :D!! )
 * *Infinite-Dimensional Calculus MUAhahaha!* (and Geometry / Linear Algebra) — aka, Calculus of Variations (and Hilbert Space Geometry / Linear Algebra) XD
 * Formally-Verifiable Logic/Mathematics (eg, ATS, Agda, etc.! :D )
-* Data Schemas / Modelling Systems that let data typing and (limited) semantics be shared across languages/platforms/implementations/codeworlds! \:D/
+* Data Schemas / Modelling Systems that let data typing and (limited) semantics be shared across languages/platforms/implementations/codeworlds! \\:D/
 * Formal grammar / syntax / computer language/parser/scanner design! :D
 * Inorganic Chemistry :3  (esp Discrete-Modelled Systems Equilibrium and Dynamic Chemistry 8> )
 * Very Basic Organic Chemistry!! XD   (I don't begin to know how to write the molecular dynamics non-transient-simulation code to calculate the entopy cost and pre-exponential factor from the geometry of the classical parameter-space region surrounding the lowest potential energy nuclear configurations of the reactant molecules!  \[*pants*\]  ..But I know if I did figure it out, there's a lot of tables I wouldn't need to memorize! ;D XDD )
