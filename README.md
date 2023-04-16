@@ -179,7 +179,7 @@ TODO XD
 Here are my other accounts I'm comfortable associating with this one ^^
 
 * Pony Town: "Puppy Pie"
-** My account there has this GitHub account attached to it!  If you don't see that GitHub, *it's not me!*  So stay safe everyone!!
+  * My account there has this GitHub account attached to it!  If you don't see that GitHub, *it's not me!*  So stay safe everyone!!
 * Discord: PuppyPi#4390
 * Reddit: [PuppyPi](https://www.reddit.com/user/PuppyPi)
 * DeviantArt: [Codepuppy](https://www.deviantart.com/codepuppy)
