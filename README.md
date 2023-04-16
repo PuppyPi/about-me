@@ -170,3 +170,16 @@ TODO XD
 * Inorganic Chemistry :3  (esp Discrete-Modelled Systems Equilibrium and Dynamic Chemistry 8> )
 * Very Basic Organic Chemistry!! XD   (I don't begin to know how to write the molecular dynamics non-transient-simulation code to calculate the entopy cost and pre-exponential factor from the geometry of the classical parameter-space region surrounding the lowest potential energy nuclear configurations of the reactant molecules!  \[*pants*\]  ..But I know if I did figure it out, there's a lot of tables I wouldn't need to memorize! ;D XDD )
 * (**definitely** things I forgot!)...
+
+
+
+
+
+# Other accounts!
+Here are my other accounts I'm comfortable associating with this one ^^
+
+* Pony Town: "Puppy Pie"
+** My account there has this GitHub account attached to it!  If you don't see that GitHub, *it's not me!*  So stay safe everyone!!
+* Discord: PuppyPi#4390
+* Reddit: [PuppyPi](https://www.reddit.com/user/PuppyPi)
+* DeviantArt: [Codepuppy](https://www.deviantart.com/codepuppy)
