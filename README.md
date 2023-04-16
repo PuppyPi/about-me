@@ -115,7 +115,7 @@ This section needs work, but I'm just going to write out a bunch of stuff like i
 
 TODO XD
 
-# Can do in my sleep XD
+### Can do in my sleep XD
 * Java Programming!
 * Java GUI Client Programming (in Swing or frameworks I made myself :3 )
 * Server Backend Programming (for a conventional website, or for systems involving custom network protocols)
@@ -136,7 +136,7 @@ TODO XD
 * Basic Chemistry (Arrhenius Equations, Gibbs Free Energy, Stoichiometry, Faraday's Law, the usual :3 )
 * (probably things I forgot!)...
 
-# Know a fair bit about and *dream about* in my sleep! 8> XD
+### Know a fair bit about and *dream about* in my sleep! 8> XD
 * The Rest of Discrete Mathematics 8>
 * The Rest of Continuous Mathematics ^^
 * Embedded-Systems Programming in C and Raspberry Pi lowlevel physical-memory direct access code in Java!
