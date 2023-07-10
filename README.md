@@ -19,7 +19,7 @@ So tl;dr please whisper if I don't respond to boops or talking normally! (and do
 I ammmmmmmm a silly little puppylike boi :>
 
 * My pronouns are he/him or they/them
-* My age is 32 years old at the time of writing; I was born in June 1990 (in case it's not the time of writing XD )
+* My age is 33 years old at the time of writing; I was born in June 1990 (in case it's not the time of writing XD )
 * My location is in Texas, US and probably will be for quite some time (time of writing: April 2023)
 * My politics are *certainly* not pro-capitalism/Republican/selfishness, but aren't exactly aligned with Democrats or even Socialists either.  It's complex to describe to people and I'm generally pretty private about them, but suffice it to say I'm open to political diversity (simultaneous co-existence of different systems!) and I'd be in the Air Nation in Avatar world :3 (ie, I would have joined a monastery if they weren't religious, a native american reservation if not for feeling I'd be an unwanted burden, or an intentional community if not for complicated personal reasons that also apply to the others, but which wouldn't have been a thing if I was 18 again and making life choices lol).
 * I'm polyamorous (okay with people I'm close to having multiple special someponies of their own :> and would like the freedom to do so myself—I'm a fae free spirit of the forest! ^,^ )
