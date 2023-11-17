@@ -6,6 +6,7 @@ If you're coming from Pony Town to see this :> then I'm usually there.<br>
 Feel free to interact with me in any way at any time! :D<br>
 If it says Away feel free to whisper, but don't expect a quick response ^^'<br>
 If it says Busy feel free to whisper still, but don't expect a response at all much less a quick one ^^'<br>
+If I'm a statue and you want to talk, please whisper then friend and message me on discord in Pony Town, since by the time I see it, the game won't let me reply for some reason, and it's so sad to see people I want to reply and talk to but the game won't let me!!<br>
 
 I'm often afk*ish* there, meaning I'm still there, just doing laundry or soldering or something and not looking at the screen all the time. ^\_^<br>
 (I'm also often not-really-afk there, meaning I'm coding or something and I'm in Pony Town but have the IDE window translucent over Pony Town and I *can* see if someone comes up to me! :D but you have no way of knowing if it's that or afkish if it says Away or Busy XD )
